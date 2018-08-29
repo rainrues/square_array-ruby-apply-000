@@ -9,5 +9,6 @@
 # end
 
 def square_array_advanced(array)
-  array.collect { |num| num ** 2 }
+  squared_array = []
+  squared_array = array.collect { |num| num ** 2 }
 end
