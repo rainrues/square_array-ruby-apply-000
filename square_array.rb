@@ -9,5 +9,5 @@ def square_array(array)
 end
 
 def square_array_advanced(array)
-  
+  array.collect
 end
